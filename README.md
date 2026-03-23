@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 # 👋 Hi, I'm Abdulrahman Khamis
-### Software Development Student & Aspiring Developer 🚀
+### Software Development Student 🚀
 
 ![Views](https://komarev.com/ghpvc/?username=AbdelrahmanKhamess&style=flat-square&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
@@ -58,9 +58,7 @@
 - 🔭 I’m currently working on enhancing my **Frontend Development** skills.
 - 🌱 Exploring Data Structures and Algorithms using **C++**.
 - 💬 Ask me about **Web Basics** or **C++ logic**.
-- ⚡ Fun fact: I believe that "Code is like humor. When you have to explain it, it’s bad."
 
----
 
 ### 📊 GitHub Stats
 
