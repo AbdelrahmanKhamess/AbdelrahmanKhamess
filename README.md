@@ -17,7 +17,6 @@
 - 🎓 Currently studying **Software Development**.
 - 💡 Passionate about building scalable applications and solving complex problems.
 - 💻 Focused on mastering **C++** and Modern **Web Technologies**.
-- 🚀 Constantly learning and evolving to stay up-to-date with industry standards.
 
 ---
 
